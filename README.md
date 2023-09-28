@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyan2211
 - 👀 I’m interested in coding and ethical hacking 
-- 🌱 I’m currently learning java and ethical hacking 
+- 🌱 I’m currently learning python and ethical hacking 
 - 💞️ I’m looking to collaborate on java programs
 - 📫 How to reach me ..by GitHub 
 
